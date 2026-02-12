@@ -1,3 +1,10 @@
+/******************************************************************************
+
+Eura Pulliam
+2.12.26
+Lab: Course and grades data
+
+*******************************************************************************/
     public class Course {
     private String courseName;
     private int numA;
