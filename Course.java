@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Eura Pulliam
+Eura Pulliam and Tatum Jr.
 2.12.26
 Lab: Course and grades data
 
